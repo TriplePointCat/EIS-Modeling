@@ -17,9 +17,9 @@ from matplotlib.backends.backend_tkagg import (FigureCanvasTkAgg, NavigationTool
 from scipy.optimize import curve_fit
 
 ##
-#Created by Padraig Stack for use at The University of Akron
-#Last Edited 3 January 2021 by Padraig Stack
-#Contact: pis5@zips.uakron.edu
+#Created by Pádraigín Stack for use at The University of Akron
+#Last Edited 3 January 2021 by Pádraigín Stack
+#Contact: pimstack@gmail.com
 ##
 
 font = ("Helvetica", 14)
